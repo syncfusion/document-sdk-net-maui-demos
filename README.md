@@ -128,11 +128,12 @@ All Document SDK libraries support the following .NET MAUI platforms:
 
 ## <a name="documentation"></a>Documentation ##
 
-### User Guides:
-* [DocIO User Guide](https://help.syncfusion.com/maui/docio/overview)
-* [PDF User Guide](https://help.syncfusion.com/maui/pdf/overview)
-* [Presentation User Guide](https://help.syncfusion.com/maui/presentation/overview)
-* [XlsIO User Guide](https://help.syncfusion.com/maui/xlsio/overview)
+* [Syncfusion Document Processing User Guide](https://help.syncfusion.com/document-processing/introduction)
+* [DocIO User Guide](https://help.syncfusion.com/document-processing/word/word-library/net/overview)
+* [PDF User Guide](https://help.syncfusion.com/document-processing/pdf/pdf-library/net/overview)
+* [Presentation User Guide](https://help.syncfusion.com/document-processing/powerpoint/powerpoint-library/net/overview)
+* [XlsIO User Guide](https://help.syncfusion.com/document-processing/excel/excel-library/net/overview)
+* [API Reference](https://help.syncfusion.com/cr/document-processing/Syncfusion.DocIO.html)
 
 ### API References:
 * [DocIO API Reference](https://help.syncfusion.com/cr/maui/Syncfusion.DocIO.html)
