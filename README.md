@@ -1,4 +1,4 @@
-# Syncfusion® Document SDK .NET MAUI examples   
+﻿# Syncfusion® Document SDK .NET MAUI examples   
  
 This repository contains comprehensive demos of [Syncfusion Document Processing Libraries for .NET MAUI](https://www.syncfusion.com/document-processing/maui?utm_source=github&utm_medium=listing). This is the best place to check our file format libraries to get more insight about creating, editing, and converting documents programmatically. 
 
@@ -177,4 +177,4 @@ The examples use the Syncfusion Document Processing Libraries, which require a v
 
 ---
   
-<p>Copyright © 2001-2025 Syncfusion, Inc. Updated on 2025-01-27 at 17:12:36 EST.</p> 
+<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2025-01-27 at 17:12:36 EST.</p> 
