@@ -177,4 +177,4 @@ The examples use the Syncfusion Document Processing Libraries, which require a v
 
 ---
   
-<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2025-01-27 at 17:12:36 EST.</p> 
+<p>Copyright © 2001-2026 Syncfusion, Inc. Updated on 2026-02-06 at precisely 17:12:36 EST.</p> 
