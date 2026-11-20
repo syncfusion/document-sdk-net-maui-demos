@@ -1,6 +1,6 @@
-﻿# Syncfusion® Document SDK .NET MAUI examples   
+﻿# Syncfusion® [Document SDK](https://www.syncfusion.com/document-sdk) .NET MAUI examples   
  
-This repository contains comprehensive demos of [Syncfusion Document Processing Libraries for .NET MAUI](https://www.syncfusion.com/document-sdk?utm_source=github&utm_medium=listing). This is the best place to check our file format libraries to get more insight about creating, editing, and converting documents programmatically. 
+This repository contains comprehensive demos of [Syncfusion Document Processing Libraries for .NET MAUI](https://www.syncfusion.com/document-sdk?utm_source=github&utm_medium=listing). This is the best place to check our Document SDK to get more insight about creating, editing, and converting documents programmatically. 
 
 This section guides you to use the Syncfusion Document SDK .NET MAUI examples in your applications.
 
@@ -14,7 +14,7 @@ This section guides you to use the Syncfusion Document SDK .NET MAUI examples in
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
-* [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)
+* [Supported IDE VS 2022/2026](https://visualstudio.microsoft.com/downloads/) or [VS Code with .NET MAUI extension on Mac](https://visualstudio.microsoft.com/vs/mac/)
 * .NET 9.0 SDK
 * .NET MAUI workload installed
 
